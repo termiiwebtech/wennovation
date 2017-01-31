@@ -1,0 +1,361 @@
+.loader{background: #1888f1;}
+.sk-rotating-plane {background-color: #fff;}
+
+.bg_red {
+	background:#1888f1 !important;
+}
+.color_red {
+	color:#1888f1;
+}
+.dropdown-menu li.active a {
+  color: #1888f1 !important;
+}
+.latest_box > a > h3:hover {
+  color: #1888f1;
+}
+#header-top .cont_office {
+	background:#1888f1;
+}
+#recent_project .owl-prev:hover  {
+  background: #1888f1;
+}
+.recent_project_2 .owl-prev:hover  {
+  background: #1888f1;
+}
+
+.recent_project_2 .owl-next:hover {
+  background: #1888f1 !important;
+}
+#recent_project .owl-next:hover {
+  background: #1888f1 !important;
+}
+#header-top {
+	background:#1f2f55;
+}
+.social-icons li:hover {
+	background:#1888f1;
+}
+#header-top_3 .search a i {
+  background:#1888f1;
+}
+#header-top_3 .cool-link_3::after {
+  background: #1888f1;
+}
+.cool-link::after {
+	background: #1888f1;
+}
+nav.navbar li.dropdown ul.dropdown-menu {
+	border-top:2px solid #1888f1 !important;
+}
+nav.navbar.bootsnav ul.nav > li > a:hover {
+	color: #1888f1;
+}
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover, nav.navbar.bootsnav li.dropdown{ 
+	color:#1888f1;
+}
+.dropdown-menu > li > a:focus, .dropdown-menu > li.active > a, .dropdown-menu > li > a:hover {
+	color: #1888f1;
+}
+.team_popup .progress-bar {
+  background-color: #1888f1;
+}
+.pop_text > h3 {
+  color: #1888f1;
+}
+.btn-dark:hover{
+	background:#1888f1;
+}
+.btn-light{
+	background:#1888f1;
+}
+.tp-tab:hover .tp-tab-title > span, .tp-tab.selected .tp-tab-title > span{ 
+  color:#1888f1;
+}
+.tp-tab:hover .tp-tab-title::before, .tp-tab.selected .tp-tab-title:before{ 
+  color:#1888f1;
+}
+.tp-tab:hover .tp-tab-title span::before, .tp-tab.selected .tp-tab-title span:before{ 
+  background:#1888f1; 
+}
+.tp-tab:hover, .tp-tab.selected{
+  background:#1888f1 !important;
+}
+.tp-tab:hover .tp-tab-title span{
+  color:#1888f1;
+}
+#s_services .services:hover a{
+	color:#1888f1;
+	border-color:#1888f1;
+}
+#s_services .services:hover span{
+  background:#1888f1;
+  border: 1px solid #1888f1;
+}
+.feature_box:hover{
+  background: #1888f1;
+}
+.feature_3 .feature_box:hover  i{
+  background: #1888f1;
+}
+.feature_3 .feature_box:hover h3{
+  color: #1888f1;
+}
+#about_slider .owl-page.active span, 
+#about_slider .owl-page:hover span {
+	background: #1888f1;
+}
+.recent_box:hover{
+  background: #1888f1;
+}
+.about_2_button .btn-dark:hover{
+  background: #1888f1;
+}
+#about_us_2 .feature_box:hover i {
+	color: #1888f1;
+}
+#about_us_2 .feature_box:hover h3 {
+	color: #1888f1;
+}
+.wpf-demo-gallery .view-caption a:hover {
+  color: #1888f1;
+}
+.recent_project-slider .owl-buttons .owl-prev:hover, .recent_project-slider .owl-buttons .owl-next:hover {
+  background: #1888f1;
+}
+.recent_tabs .nav-tabs > li.active > a, 
+.recent_tabs .nav-tabs > li.active > a:focus, 
+.recent_tabs .nav-tabs > li.active > a:hover {
+  color: #1888f1;
+}
+.recent_tabs .nav > li > a:focus, .recent_tabs .nav > li > a:hover {
+  color:#1888f1;
+}
+.cool-link-2::after{
+	background: #1888f1;
+}
+.recent_project_2 .recent_box:hover {
+  background: #1888f1;
+}
+.recent_project_3_slider .owl-buttons .owl-prev:hover,
+.recent_project_3_slider .owl-buttons .owl-next:hover{
+	background: #1888f1;
+}
+#our_team_slider .owl-controls .owl-page.active span, .owl-controls.clickable .owl-page:hover span {
+	background: #1888f1;
+}
+#our_team_3 .item .team_text:hover a {
+	color:#1888f1;
+	border-color:#1888f1;
+}
+.wpf-demo-gallery .view-caption a:hover {
+  color: #1888f1;
+}
+#testimonials .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+	background: #1888f1;
+}
+.testi_heading > h4 {
+  color: #1888f1;
+}
+#testimonial-slider_2 .owl-controls .owl-page.active span, .owl-controls.clickable .owl-page:hover span {
+	background: #1888f1;
+}
+#latest_news-slider .owl-page.active span, 
+#latest_news-slider .owl-page:hover span {
+	background: #1888f1;
+}
+.latest_box_4 > h2 > a:hover{
+  color: #1888f1;
+}
+#latest_news .owl-controls .owl-page.active span, .owl-controls.clickable .owl-page:hover span {
+  background: #1888f1;
+}
+.company_icon i {
+  color:#1888f1;
+}
+.social-icons_1 li:hover{
+	background:#1888f1;
+}
+.footer_link_1 li a:hover {
+  color: #1888f1;
+}
+.latest_footer h4 a:hover{
+  color: #1888f1;
+}
+.text_ita {
+  border-left: 6px solid #1888f1;
+}
+#contact_form h3 span {
+  background:#1888f1;
+}
+#contact_form .form_left .footer_1_contact i {
+  color: #1888f1;
+}
+#faq .items > li > a:hover, #faq .items > li > a.expanded {
+  background: #1888f1 !important;
+}
+#news-section .pro-list > li:hover {
+	color:#1888f1;
+}
+.news_image .price .tag {
+  background: #1888f1;
+}
+.latest_page_box span a:hover{
+  color: #1888f1;
+}
+.latest_page_box .btn-dark:hover{
+	background:#1888f1;
+}
+.pager li > a:hover, .pager li > a:focus, .pager li.active > a {
+	background-color: #1888f1;
+	border-color:#1888f1;
+}
+.have_qus {
+  background: #1888f1;
+}
+.news-tag > a:hover {
+	background:#1888f1;
+}
+.latest_box_5 > a {
+	border-bottom:1px solid #1888f1;
+	color:#1888f1;
+}
+.news_details .latest_page_details a {
+	color:#1888f1;
+}
+.news_details .latest_page_details a {
+	color:#1888f1;
+}
+.our_team .social-icons_1 li:hover{
+  background: #1888f1;
+}
+.project .recent_box:hover{
+  background: #1888f1;
+}
+.project_des {
+  border-left:6px solid #1888f1;
+}
+.project_des .table > tbody > tr > td a {
+  color: #1888f1;
+}
+.testimonials_box > h4 {
+  color:#1888f1;
+}
+.solution_tabs > ul {
+  border-left:3px solid #1888f1;
+}
+.solution_tabs .active a {
+  background: #1888f1;
+}
+.solution_tabs ul li a:hover{
+  background: #1888f1;
+}
+.solution_tabs ul li:active{
+  background: #1888f1;
+}
+.solution_tabs ul li a:focus{
+  background: #1888f1;
+}
+#solution .footer_1_contact i {
+  color: #1888f1;
+}
+.brochure > a {
+  background: #1888f1;
+}
+.media .media-heading:hover a{
+	color:#1888f1;
+}
+.comments .media span a {
+  color: #1888f1;
+}
+.shop_details > span {
+  color: #1888f1;
+}
+.cart_button_1:hover{
+  background: #1888f1;
+}
+.share_product {
+  background: #1888f1;
+}
+.category_box .nstSlider .bar {
+  background: #1888f1;
+}
+.category_box .pro-list > li a:hover {
+  color: #1888f1;
+}
+.shop_contact i {
+  color: #1888f1;
+}
+.box_des > span {
+  color: #1888f1;
+}
+.box_des > a:hover{
+  color: #1888f1;
+}
+.cart_box > a:hover {
+  color: #1888f1;
+}
+.cart_box > a:hover i{
+  color: #1888f1;
+}
+.tag_new {
+  background: #1888f1;
+}
+.buttons .dark_btn {
+  background: #1888f1;
+}
+.buttons > a:hover{
+  background: #1888f1;
+}
+.pricing-table-footer .btn.btn-default {
+  background: #1888f1;
+}
+a:hover, a:active {
+	color:#1888f1;
+}
+#services_slider .services:hover a{
+	color:#1888f1;
+}
+.toggle .toggle-heading a i {
+  background: #1888f1;
+}
+.latest_news_text > a:hover {
+  color: #1888f1;
+}
+#map_banner .owl-page.active span, 
+#map_banner .owl-page:hover span {
+  background: #1f2f55 !important;
+}
+#finance_partner .media-body a:hover {
+  color: #1888f1;
+}
+.back-to-top {
+  background: #1888f1;
+}
+#contact-us .contact-text {
+  background: #1888f1;}
+.bg_blue{
+  background:#1f2f55;
+}
+#header-top {
+	background:#1f2f55;
+}
+.footer_email .submit_b > span > a {
+  background: #1888f1;}
+  .footer_botom {
+  background: #162342;
+}
+.footer_link > li > a:hover{
+  color:#1888f1;
+}
+.image_text {
+  background: #1f2f55;
+  }
+  .latest_footer {
+    background: #162342 none repeat scroll 0 0;
+  }
+ #contact_form .contact-text {
+  background: #1888f1;
+}
+.counter span {
+  color: #1888f1;
+  }
