@@ -666,7 +666,6 @@ a:active, a:hover {
   border-left: none !important;
 }
 #header-top_3 .collapse.navbar-collapse.nav_bor_bot {
-  border-bottom: 1px solid rgba(255, 255, 255, .5);
   margin-bottom: -1px;
 }
 #header-top_3 .wrap-sticky  .navbar-brand {
@@ -755,6 +754,8 @@ a:active, a:hover {
   position: fixed;
   transition: all 0.2s ease-in-out 0s;
   background: #fff;
+    box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, 0.07);
+    border-bottom: solid 1px transparent;
 }
 .collapse.navbar-collapse.nav_bor_top {
  /* border-top: 1px solid rgba(255, 0, 0, .5);*/
@@ -1423,7 +1424,7 @@ a {
 /* --------- Banner Css - 2 -------- */
 .tp-tabs{
   left: 50% !important;
-  margin:-160px auto 0;
+  margin:-125px auto 0 !important;
   -ms-transform: translateX(-50%) !important;
   -moz-transform: translateX(-50%) !important;
   -webkit-transform: translateX(-50%) !important;
@@ -1542,6 +1543,7 @@ a {
 }
 .services h3 {
   font-weight:600;
+font-size: 15px !important;
   padding-top: 27px;
   padding-bottom:15px;
 }
@@ -1549,7 +1551,7 @@ a {
   padding-bottom:25px;
 }
 .services h3 span {
-  font-size: 16px;
+  font-size: 15px;
     background: transparent;
     border: 1px solid #c7c7c7;
     border-radius: 100%;
@@ -1766,11 +1768,11 @@ a {
 	margin:2px 17px;
 }
 #our-partner-slider .item img {
-  display: block;
-  height: auto;
-  width: 100%;
-  border: 1px solid #dcdcdc;;
-  border-radius: 5px;
+      display: block;
+    height: auto;
+    width: 70%;
+    border-radius: 5px;
+        border: 1px solid #efefef;
 }
 #our-partner-slider .owl-next {
   position: absolute;
@@ -2448,9 +2450,11 @@ a {
 }
 .team_text {
   margin-top: 35px;
+    font-weight: 600 !important;
 }
 .team_text > p{
 	padding: 10px 15px 20px 0;
+    font-size: 14px !important;
 }
 .team_text > a {
   color: #111111;
@@ -2505,6 +2509,7 @@ a {
   background-color: #FFF;
   display: block;
   border-radius: 5px 5px 0 0;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.07);
   width:100%;
   height:100%;
   overflow: hidden;
@@ -2788,7 +2793,7 @@ a {
 /* ================================= */
 .latest_box {
   background: #fff;
-  padding: 45px 25px 25px ;
+  padding: 25px 25px 25px ;
   border-radius: 5px;
   width: 348px;
   height: 236px;
@@ -3334,7 +3339,7 @@ a {
   margin-top: 12px;
 }
 .footer_link_1 > li > a {
-  color: #fff;
+  color: #000;
 }
 .footer_link_1 {
   display: inline-block;
@@ -3356,24 +3361,30 @@ a {
   padding: 16px 20px;
   margin-bottom:10px;
 }
+.get-tuch i {
+    display: inline-block;
+    font-size: 34px;
+    margin-right: 15px;
+    vertical-align: text-bottom;
+}
 .latest_footer > p {
   color: #ccc;
 }
 .latest_footer h4 a {
-  color: #fff;
+  color: #000;
 }
 .latest_footer h4{
-	color:#fff;
+	color:#000;
 	font-size:16px;
 	line-height:24px;
 }
 .footer_1_contact p {
-  color: #fff;
+  color: #000;
   font-size: 14px;
   padding-bottom: 17px;
 }
 .footer_1_contact .icon-icons74 {
-  color: #fff;
+  color: #000;
   font-size: 30px;
   margin-left: -4px;
   margin-right: 10px;
@@ -3392,7 +3403,7 @@ a {
   vertical-align: middle;
 }
 #footer_1 p {
-  color: #fff;
+  color: #000;
 }
 /* ================================= */
 /* ------ About us Page  Css  ------ */
@@ -3406,6 +3417,7 @@ a {
 .hrr {
     border: 0;
     height: 15px;
+    width: 50%;
     position: relative;
     background: radial-gradient(ellipse at bottom, rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 70%);
  }
@@ -4705,7 +4717,10 @@ a {
 /* --------- Brokers  Css  --------- */
 /* ================================= */
 .broker_box > img {
-  width: 100%;
+      width: 65%;
+    box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, 0.07);
+    border-radius: 10px;
+    float: right;
 }
 .toggle { 
 	margin-bottom:12px;

@@ -51,20 +51,20 @@
     <!-- Map End -->
 
     <!-- Footer Start -->
-    <footer id="footer_1" class="bg_blue p-t-50">
+    <footer id="footer_1" class="bg_blue p-t-50" style="background: url(images/topmage.png);border-top: 2px solid #f68e1f;">
         <div class="container">
             <div class="row p-b-10">
                 <div class="col-md-3">
                     <div class="footer_logo">
-                        <img src="images/logo.png" alt="image" />
+                        <img src="images/logo.png" alt="image"  style="width: 250px;" />
                     </div>
                 </div>
                 <div class="col-md-6 text-center hidden-xs">
                     <ul class="footer_link">
 
-                            <li><a href="home#s_services">What we do</a></li>
-                            <li><a href="home#represent">Our Goal</a></li>
-                            <li><a href="home#startups">Startups Aided</a></li>
+                            <li><a href="home#who">About</a></li>
+                            <li><a href="home#focus">Focus</a></li>
+                            <li><a href="home#startups">Startups</a></li>
                             <li><a href="home#events">Upcoming Events</a></li>
                             <li><a href="contact">Contact Us</a></li>
                     </ul>
@@ -79,11 +79,29 @@
             </div>
             <hr class="hrr">
             <div class="row p-t-55">
-                <div class="col-md-8 col-sm-8 col-xs-12">
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <p class="footer_p">Wennovation Hub is pioneer innovation accelerator located in Nigeria, with offices in Lagos and Ibadan. We focus on social impact sectors including Education, Agriculture, Healthcare and Infrastructure and emphasizes the importance of job creation in all our programs.</p>
                 </div>
+                <div class="col-md-3 col-sm-3">
+                   <div class="col-md-12">
+                    <i class="icon-icons74 color_red" style="font-size: 27px;"></i><h3> Ibadan Office</h3>
+                            <ul>
+                                <li><p>3rd floor, Alpha & Omega Building,</p></li>
+                                <li><p class="p_14">Queen Elizabeth Road II, Mokola Ibadan.</p></li>
+                            </ul>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-2">
+                    <div class="col-md-12">
+                    <i class="icon-icons74 color_red" style="font-size: 27px;"></i><h3> Lagos Office</h3>
+                            <ul>
+                                <li><p>Plot C Obasa Rd,</p></li>
+                                <li><p class="p_14">Ikeja, Lagos.</p></li>
+                            </ul>
+                    </div>
+                </div>
 
-                <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="col-md-3 col-sm-3 col-xs-12">
                     <form class="footer_email">
                         <div class="col-md-10">
                             <input type="email" class="email" placeholder="Email Address">
@@ -94,13 +112,15 @@
                         </div>
                     </form>
                 </div>
+                
             </div>
         </div>
+        
         <div class="footer_botom m-t-50 p-t-20 p-b-20">
             <div class="container">
                 <div class="row">
                     <div class="col-md-7">
-                        <p>Copyrights © 2017 Wennovation Hub. All rights reserved.</p>
+                        <p style="color: #fff !important">Copyrights © 2017 Wennovation Hub. All rights reserved.</p>
                     </div>
                 </div>
             </div>

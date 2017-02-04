@@ -40,128 +40,101 @@
 <body>
     <!-- Loader Start -->
     <div class="loader">
-        <div class="sk-rotating-plane"></div>
+        <div class="sk-rotating-plane"><img src="images/fav.png"/></div>
     </div>
-    <!-- Header Top Start -->
-    <section id="header-top" class="home2-header">
+    <header id="header-top_3">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="hidden">
-                        <h2>hidden</h2>
-                    </div>
-                    <p class="p_15 p-white p-t-10">Grooming the Next Set of African Businesses.</p>
-                </div>
-                <div class="col-md-8 col-sm-8 col-xs-12 text-right">
-                    <div class="header-top-links">
-                        <div class="social-icons text-right">
+                <!-- Header Top Start -->
+                <div class="header_set">
+                    <div class="col-md-10 col-sm-10 col-xs-12">
+                        <div class="get-tuch text-left"><i class="icon-telephone114"></i>
                             <ul>
-                                <li><a href="https://web.facebook.com/wennovationhub"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
-                                <li><a href="https://twitter.com/wennovation"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
+                                <li><h5 class="color_white">Ibadan .: (+234) 0909-000-2648</h5></li>
+                                <li><h5 class="color_white">Lagos  .: (+234) 0909-000-2647</h5></li>
+                            </ul>
+                        </div>
+                        <div class="get-tuch text-left"><i class="icon-alarmclock"></i>
+                            <ul>
+                                <li>
+                                    <h4>9am - 9pm</h4>
+                                </li>
+                                <li>
+                                    <p class="p_14">Monday to Sunday</p>
+                                </li>
                             </ul>
                         </div>
                     </div>
-
-                    <div class="cont_office"> 
-                        <div class="office_menu">
-                        <span class="selected">Ibadan Office</span>
-                        <ul>
-                            <li><a href="#" data-office="newyork">Ibadan Office</a></li>
-                            <li><a href="#" data-office="london">Lagos Office</a></li>
-                        </ul>
+                    <div class="col-md-2 col-sm-2 col-xs-12 text-right">
+                        <div class="header-top-links">
+                            <div class="social-icons text-right">
+                                <ul>
+                                    <li><a href="#"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                                <li>
+                                    <a href="login" class="p-white">Members Login</a>
+                                </li>
+                        </div>
                     </div>
-                </div>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- Header Top End -->
 
-    <!-- Header Bottom Start -->
-    <section id="header-bottom" class="bg_white">
-        <div class="container">
-            <div class="row p-t-20 p-b-20">
-                <div class="col-md-3 col-sm-3 col-xs-12">
-                    <a href="home"><img src="images/logo.png" alt="logo" /></a>
+        <!-- Header Top End -->
+
+        <!-- Navbar Start -->
+        <nav class="navbar navbar-default navbar-fixed navbar-transparent navbar-sticky dark bootsnav">
+
+            <div class="container">
+                <div class="" id="search">
+                    <button type="button" class="close">×</button>
+                    <form>
+                        <input type="search" value="" placeholder="Search on Site...">
+                        <span class="searc_button"><i class="icon-icons185"></i></span>
+                        <button type="submit" class="btn btn-primary">Search</button>
+                    </form>
                 </div>
-                <div class="col-md-9 col-sm-9 col-xs-12">
-                    <div class="officeaddress">
-                    <div class="addressbox" data-office="newyork">
-                        <div class="get-tuch text-left"><i class="icon-telephone114 color_red"></i>
-                            <ul>
-                                <li><h4>(+234) 0909-000-2648</h4></li>
-                                <li><p class="p_14">info@wennovationhub.org</p></li>
-                            </ul>
-                        </div>
-                        <div class="get-tuch text-left"><i class="icon-icons74 color_red"></i>
-                            <ul>
-                                <li><h4>3rd floor, Alpha & Omega Building</h4></li>
-                                <li><p class="p_14">Queen Elizabeth Road II, Mokola Ibadan.</p></li>
-                            </ul>
-                        </div>
-                        <div class="get-tuch text-left"><i class="icon-alarmclock color_red"></i>
-                            <ul>
-                                <li><h4>08:00 - 9:00</h4></li>
-                                <li><p class="p_14">Monday to Saturday</p></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="addressbox" data-office="london">
-                        <div class="get-tuch text-left"><i class="icon-telephone114 color_red"></i>
-                            <ul>
-                                <li><h4>(+234) 0708-162-8110</h4></li>
-                                <li><p class="p_14">info@wennovationhub.org</p></li>
-                            </ul>
-                        </div>
-                        <div class="get-tuch text-left"><i class="icon-icons74 color_red"></i>
-                            <ul>
-                                <li><h4>Plot C Obasa Rd,</h4></li>
-                                <li><p class="p_14">Ikeja, Lagos.</p></li>
-                            </ul>
-                        </div>
-                        <div class="get-tuch text-left"><i class="icon-alarmclock color_red"></i>
-                            <ul>
-                                <li><h4>08:00 - 9:00</h4></li>
-                                <li><p class="p_14">Monday to Saturday</p></li>
-                            </ul>
-                        </div>
-                    </div>
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="home">
+
+                        <img src="images/logo.png" class="logo logo-display" alt=""style="width: 200px;" />
+                        <img src="images/logo.png" class="logo logo-scrolled" alt="" style="width: 200px;" />
+
+                    </a>
                 </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Header Bottom End -->
+                <!-- End Header Navigation -->
 
-    <!-- Navbar Start -->
-    <nav class="navbar navbar-default navbar-sticky bootsnav">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <!-- Start Header Navigation -->
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"><i class="fa fa-bars"></i></button>
-                    </div>
-                    <!-- End Header Navigation -->
-
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-
-                    <div class="collapse navbar-collapse nav_bor_top" id="navbar-menu">
-                        <ul class="nav navbar-nav navbar-left" data-in="fadeInDown" data-out="fadeOutUp">
-                            <li class="cool-link active"><a href="home">Home</a>
-                            </li>
-
-                            <li class="cool-link"><a href="home#s_services">What we do</a></li>
-                            <li class="cool-link"><a href="home#represent">Our Goal</a></li>
-                            <li class="cool-link"><a href="home#our_team_3">Our Team</a></li>
-                            <li class="cool-link"><a href="home#startups">Startups Aided</a></li>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse nav_bor_bot" id="navbar-menu">
+                    <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+                        <li class="cool-link_3 active"><a href="home">Home</a>
+                        </li>
+                            <li class="cool-link"><a href="home#who">About</a></li>
+                        <li class="dropdown cool-link_3"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Focus</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="incubation">Incubation & Acceleration</a></li>
+                                <li><a href="ecosystem">Ecosystem development</a></li>
+                                <li><a href="consulting">Consulting</a></li>
+                                <li><a href="coworking">Coworking</a></li>
+                            </ul>
+                        </li>
+                            <li class="cool-link"><a href="team">Our Team</a></li>
+                            <li class="cool-link"><a href="home#startups">Startups</a></li>
                             <li class="cool-link"><a href="home#events">Upcoming Events</a></li>
-                            <li class="cool-link"><a href="contact">Contact Us</a></li>
-                        </ul>
-                    </div>
-                    <!-- /.navbar-collapse -->
+                            <li class="cool-link active"><a href="contact">Contact Us</a></li>
+                    </ul>
                 </div>
+                <!-- /.navbar-collapse -->
+
             </div>
-        </div>
-    </nav>
+        </nav>
+
+    </header>
     <!-- Navbar End -->
