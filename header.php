@@ -57,7 +57,7 @@
                         <div class="get-tuch text-left"><i class="icon-alarmclock"></i>
                             <ul>
                                 <li>
-                                    <h4>24/7</h4>
+                                    <h4>9am - 9pm</h4>
                                 </li>
                                 <li>
                                     <p class="p_14">Monday to Sunday</p>
@@ -123,7 +123,6 @@
                                 <li><a href="ecosystem">Ecosystem development</a></li>
                                 <li><a href="consulting">Consulting</a></li>
                                 <li><a href="coworking">Coworking</a></li>
-                                <li><a href="argrichack">AgriHack WestAfrica</a></li>
                             </ul>
                         </li>
                             <li class="cool-link"><a href="team">Our Team</a></li>

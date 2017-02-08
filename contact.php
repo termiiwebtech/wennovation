@@ -97,16 +97,11 @@ else
                                     <span><a href="#"><i class="icon-mail-envelope-closed3"></i></a></span>
                                 </div>
                             </form>
-                                                
-            </div>
-                    
-                             <div class="row">
-                  <div class="col-md-6 col-sm-4" > <a href="http://www.facebook.com/"> <img src="images/facebook.png"></a> <a href="http://www.twitter.com/"><img src="images/twitter.png"></a><a href=http://www.instagram.com/><img src="images/instagram.png"></a></div>
                         </div>
+                                
              </div>
              
         </div>
-            
     </div>
     </div>
 </section>

@@ -18,12 +18,11 @@
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     <div class="solution_tabs">
                         <h3>Our Key Service Areas</h3>
-                         <ul>
-                            <li class="active"><a href="incubation">Incubation & Acceleration</a></li>
+                        <ul>
+                            <li><a href="incubation">Incubation & Acceleration</a></li>
                             <li><a href="ecosystem">Ecosystem Development</a></li>
                             <li><a href="consulting">Consulting</a></li>
-                            <li><a href="coworking">Coworking</a></li>
-                            <li><a href="agrihack">AgriHack WestAfrica</a></li>
+                            <li class="active"><a href="coworking">Coworking</a></li>
                         </ul>
                     </div>
                 </div>
@@ -32,7 +31,7 @@
             <div class="row p-t-70">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="broker_box">
-                        <h2>Coworking</h2>
+                        <h2>Coworking Initiatives</h2>
                         <p class="m-t-20">We provide a shared work environment where people meet, work, network, share ideas and collaborate on projects.</p>
                         <div id="accordion" role="tablist" aria-multiselectable="true" class="m-t-35">
                             <div class="toggle">
@@ -43,7 +42,7 @@
                                 </div>
                                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-expanded="false">
                                     <div class="toggle-body p-b-70">
-                                        <p>WennoSpace is Wennovation Hub’s office space service for small and medium scale enterprises, meeting rooms rental and event space rental for ecosystem related events.</p>
+                                        <p>Wennospace is Wennovation Hub’s month-to-month office rental for small and medium scale enterprises, meeting rooms rental and event space rental for ecosystem related events. Wennospace gives you the best value for your money as you get to also list our office as your official business address.</p>
                                     </div>
                                     <a href="pricing.pdf" target="_blank" class="btn-light">View Pricing List</a> <a href="contact" class="btn-light">Book Now</a>
                                 </div>
