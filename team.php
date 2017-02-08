@@ -1,11 +1,12 @@
 <!-- Page Banner Start -->
-<div id="page_banner" class="m-b-20">
-    <div class="container">
+<div id="page_banner" style="    width: 120%;
+    margin-left: -10%;" class="m-b-20">
+    
 		<div class="page-header text-center">
           <h2>Our Team</h2>
           <h4 class="color_white">We are a passionate and commited to grooming African Entreprenuers</h4>
         </div>
-    </div>
+   
 </div>
 <!-- Page Banner End -->
 
@@ -17,13 +18,13 @@
             <div class="row p-t-70">
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="broker_box">
-                        <img src="images/finance/wennoo.jpg" alt="image" >
+                        <img src="templates/kickstart/images/finance/wennoo.jpg" alt="image" >
                     </div>
                 </div>
                 <div class="col-md-7 col-sm-7 col-xs-12">
                     <div class="broker_box">
                         <h2>Nigeria's pioneer innovation accelerator</h2>
-                        <p class="m-t-20">Wennovation Hub is a pioneer innovation accelerator located in Nigeria, with offices in Lagos and Ibadan. We focus on social impact sectors including Education, Agriculture, Healthcare and Infrastructure and emphasizes the importance of job creation in all our programs.</p>
+                        <p class="m-t-20">Wennovation Hub is a pioneer innovation accelerator founded in August 2010, with offices in Lagos and Ibadan Nigeria. We focus on social impact sectors including Education, Agriculture, Healthcare and Infrastructure and emphasizes the importance of job creation in all our programs.</p>
                         <div id="accordion" role="tablist" aria-multiselectable="true" class="m-t-35">
                             
                             <div class="toggle">
@@ -42,7 +43,7 @@
 
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
-                                <a href="https://www.linkedin.com/in/oluwole-odetayo-69277a2a/"><img src="images/team/wole.jpg" alt="img"></a>
+                                <a href="https://www.linkedin.com/in/oluwole-odetayo-69277a2a/"><img src="templates/kickstart/images/team/wole.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/oluwole-odetayo-69277a2a/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </figcaption>
@@ -61,7 +62,7 @@
 
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
-                                <a href="https://www.linkedin.com/in/belloidris/" target="_blank"><img src="images/team/Idris.jpg" alt="img"></a>
+                                <a href="https://www.linkedin.com/in/belloidris/" target="_blank"><img src="templates/kickstart/images/team/Idris.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/belloidris/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </figcaption>
@@ -69,7 +70,7 @@
                         </div>
                         <div class="team_text">
                                 <h4>Idris Bello</h4>
-                                <p>Co-founder & Programmes Director</p>
+                                <p>Co-founder & Programme Director</p>
                         </div>
 
                     </div>
@@ -80,7 +81,7 @@
 
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
-                                <a href="https://www.linkedin.com/in/michael-oluwagbemi-pe-pmp-98539313/" target="_blank"><img src="images/team/gbemi.jpg" alt="img"></a>
+                                <a href="https://www.linkedin.com/in/michael-oluwagbemi-pe-pmp-98539313/" target="_blank"><img src="templates/kickstart/images/team/gbemi.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/michael-oluwagbemi-pe-pmp-98539313/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </figcaption>
@@ -99,7 +100,7 @@
 
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
-                                <a href="https://www.linkedin.com/in/damilola-agboola-ccp-20762711/" target="_blank"><img src="images/team/dami.jpg" alt="img"></a>
+                                <a href="https://www.linkedin.com/in/damilola-agboola-ccp-20762711/" target="_blank"><img src="templates/kickstart/images/team/dami.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/damilola-agboola-ccp-20762711/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </figcaption>
@@ -133,7 +134,7 @@
 
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
-                                <a href="https://www.linkedin.com/in/gbolarhan/" target="_blank"><img src="images/team/alli.jpg" alt="img"></a>
+                                <a href="https://www.linkedin.com/in/gbolarhan/" target="_blank"><img src="templates/kickstart/images/team/alli.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/gbolarhan/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </figcaption>
@@ -153,7 +154,7 @@
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
                                 <a href="https://www.linkedin.com/in/francisca-igbedion-465a2520/
-" target="_blank"><img src="images/team/igbe.jpg" alt="img"></a>
+" target="_blank"><img src="templates/kickstart/images/team/igbe.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/francisca-igbedion-465a2520/
 " target="_blank"><i class="fa fa-linkedin"></i></a>
@@ -190,7 +191,7 @@
 
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
-                                <a href="https://www.linkedin.com/in/umar-ahmed-pmp-b-sc-b8732131/" target="_blank"><img src="images/team/musa.jpg" alt="img"></a>
+                                <a href="https://www.linkedin.com/in/umar-ahmed-pmp-b-sc-b8732131/" target="_blank"><img src="templates/kickstart/images/team/musa.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/umar-ahmed-pmp-b-sc-b8732131/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </figcaption>
@@ -209,7 +210,7 @@
 
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
-                                <a href="https://www.linkedin.com/in/adewumi-babafemi-852bb5117/" target="_blank"><img src="images/team/femi.jpg" alt="img"></a>
+                                <a href="https://www.linkedin.com/in/adewumi-babafemi-852bb5117/" target="_blank"><img src="templates/kickstart/images/team/femi.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/adewumi-babafemi-852bb5117/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </figcaption>
@@ -229,7 +230,7 @@
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
                                 <a href="https://www.linkedin.com/in/femi-oluwagbemi-a387a9b4/
-" target="_blank"><img src="images/team/femo.jpg" alt="img"></a>
+" target="_blank"><img src="templates/kickstart/images/team/femo.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/femi-oluwagbemi-a387a9b4/
 " target="_blank"><i class="fa fa-linkedin"></i></a>
@@ -266,7 +267,7 @@
 
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
-                                <a href="https://www.linkedin.com/in/jeannjoroge"><img src="images/team/jean.jpg" alt="img"></a>
+                                <a href="https://www.linkedin.com/in/jeannjoroge"><img src="templates/kickstart/images/team/jean.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/jeannjoroge" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </figcaption>
@@ -285,7 +286,7 @@
 
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
-                                <a href="https://www.linkedin.com/in/ndidi-ukaonu-817b7864" target="_blank"><img src="images/team/ndidi.jpg" alt="img"></a>
+                                <a href="https://www.linkedin.com/in/ndidi-ukaonu-817b7864" target="_blank"><img src="templates/kickstart/images/team/ndidi.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/ndidi-ukaonu-817b7864" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </figcaption>
@@ -304,7 +305,7 @@
 
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
-                                <a href="http://abiolaiyiola.com/profile/" target="_blank"><img src="images/team/abiola.jpg" alt="img"></a>
+                                <a href="http://abiolaiyiola.com/profile/" target="_blank"><img src="templates/kickstart/images/team/abiola.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="http://abiolaiyiola.com/profile/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </figcaption>
@@ -312,7 +313,7 @@
                         </div>
                         <div class="team_text">
                                 <h4>Mogaji Abiola Iyiola</h4>
-                                <p>Director</p>
+                                <p>Advisor</p>
                         </div>
 
                     </div>
@@ -324,7 +325,7 @@
                         <div class="single-effect">
                             <figure class="wpf-demo-gallery">
                                 <a href="https://www.linkedin.com/in/bashir-koledoye-7a95074
-" target="_blank"><img src="images/team/bash.jpg" alt="img"></a>
+" target="_blank"><img src="templates/kickstart/images/team/bash.jpg" alt="img"></a>
                                 <figcaption class="view-caption">
                                     <a href="https://www.linkedin.com/in/bashir-koledoye-7a95074
 " target="_blank"><i class="fa fa-linkedin"></i></a>
@@ -375,19 +376,19 @@
 
     <div class="container">
         <div id="our-partner-slider" class="owl-carousel">
-            <div class="item"><img src="images/logo/emory.png"></div>
-            <div class="item"><img src="images/logo/spring.png"></div>
-            <div class="item"><img src="images/logo/bill.png"></div>
-            <div class="item"><img src="images/logo/afrilabs.png"></div>
-            <div class="item"><img src="images/logo/cta.png"></div>
-            <div class="item"><img src="images/logo/vilcap.png"></div>
-            <div class="item"><img src="images/logo/lagos.png"></div>
-            <div class="item"><img src="images/logo/global.png"></div>
-            <div class="item"><img src="images/logo/total.png"></div>
-            <div class="item"><img src="images/logo/tony.png"></div>
-            <div class="item"><img src="images/logo/gdg.png"></div>
-            <div class="item"><img src="images/logo/nigeria.png"></div>
-            <div class="item"><img src="images/logo/miit.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/emory.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/spring.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/bill.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/afrilabs.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/cta.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/vilcap.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/lagos.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/global.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/total.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/tony.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/gdg.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/nigeria.png"></div>
+            <div class="item"><img src="templates/kickstart/images/logo/miit.png"></div>
         </div>
     </div>
 

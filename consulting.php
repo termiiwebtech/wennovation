@@ -18,12 +18,13 @@
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     <div class="solution_tabs">
                         <h3>Our Key Service Areas</h3>
-                        <ul>
-                            <li><a href="incubation">Incubation & Acceleration</a></li>
+                         <ul>
+                            <li class="active"><a href="incubation">Incubation & Acceleration</a></li>
                             <li><a href="ecosystem">Ecosystem Development</a></li>
-                            <li class="active"><a href="consulting">Consulting</a></li>
+                            <li><a href="consulting">Consulting</a></li>
                             <li><a href="coworking">Coworking</a></li>
-                        </ul>
+                            <li><a href="agrihack">AgriHack WestAfrica</a></li>
+                        </ul>s
                     </div>
                 </div>
                 <div class="col-md-9 col-sm-9 col-xs-12">
@@ -31,7 +32,7 @@
             <div class="row p-t-70">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="broker_box">
-                        <h2>Consulting Initiatives</h2>
+                        <h2>Consulting</h2>
                         <p class="m-t-20">We help to improve their performance, operating primarily through the analysis of existing organizational problems and the development of plans for improvement.</p>
                         <div id="accordion" role="tablist" aria-multiselectable="true" class="m-t-35">
                             <div class="toggle">

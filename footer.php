@@ -16,7 +16,7 @@
                                         <div class="agetn-contact-2 p-t-35">
                                             <p><i class="icon-telephone114"></i>(+234) 0909-000-2648</p>
                                             <p><i class=" icon-icons142"></i>info@wennovationhub.org</p>
-                                            <p><i class=" icon-alarmclock"></i>Mon to Sat - 08:00 to 9:00</p>
+                                            <p><i class=" icon-alarmclock"></i>Mon to Sun - 09:00 to 21:00</p>
                                             <p><i class="icon-icons74"></i>3rd floor, Alpha & Omega Building,</p>
                                             <p>Queen Elizabeth Road II, Mokola Ibadan.</p>
                                         </div>
@@ -28,8 +28,8 @@
                                         <div class="agetn-contact-2 p-t-35">
                                             <p><i class="icon-telephone114"></i>(+234) 0708-162-8110</p>
                                             <p><i class=" icon-icons142"></i>info@wennovationhub.org</p>
-                                            <p><i class=" icon-alarmclock"></i>Mon to Sat - 08:00 to 9:00</p>
-                                            <p><i class="icon-icons74"></i>Plot C Obasa Rd,</p>
+                                            <p><i class=" icon-alarmclock"></i>Mon to Sun - 08:00 to 18:00</p>
+                                            <p><i class="icon-icons74"></i>11a, Rev Ogunbiyi Str off Oba Akinjobi Str,</p>
                                             <p>Ikeja, Lagos.</p>
                                         </div>
                                     </div>
@@ -80,7 +80,7 @@
             <hr class="hrr">
             <div class="row p-t-55">
                 <div class="col-md-4 col-sm-4 col-xs-12">
-                    <p class="footer_p">Wennovation Hub is pioneer innovation accelerator located in Nigeria, with offices in Lagos and Ibadan. We focus on social impact sectors including Education, Agriculture, Healthcare and Infrastructure and emphasizes the importance of job creation in all our programs.</p>
+                    <p class="footer_p">Wennovation Hub is a pioneer innovation accelerator founded in August 2010, with offices in Lagos and Ibadan Nigeria. We focus on social impact sectors including Education, Agriculture, Healthcare and Infrastructure and emphasizes the importance of job creation in all our programs.</p>
                 </div>
                 <div class="col-md-3 col-sm-3">
                    <div class="col-md-12">

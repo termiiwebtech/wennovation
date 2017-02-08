@@ -18,7 +18,7 @@
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     <div class="solution_tabs">
                         <h3>Our Key Service Areas</h3>
-                         <ul>
+                        <ul>
                             <li class="active"><a href="incubation">Incubation & Acceleration</a></li>
                             <li><a href="ecosystem">Ecosystem Development</a></li>
                             <li><a href="consulting">Consulting</a></li>
@@ -32,28 +32,17 @@
             <div class="row p-t-70">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="broker_box">
-                        <h2>Coworking</h2>
-                        <p class="m-t-20">We provide a shared work environment where people meet, work, network, share ideas and collaborate on projects.</p>
-                        <div id="accordion" role="tablist" aria-multiselectable="true" class="m-t-35">
-                            <div class="toggle">
-                                <div class="toggle-heading" role="tab">
-                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne" class="collapsed">
-                                        <i class="fa fa-minus"></i> WennoSpace
-                                    </a>
-                                </div>
-                                <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-expanded="false">
-                                    <div class="toggle-body p-b-70">
-                                        <p>WennoSpace is Wennovation Hub’s office space service for small and medium scale enterprises, meeting rooms rental and event space rental for ecosystem related events.</p>
-                                    </div>
-                                    <a href="pricing.pdf" target="_blank" class="btn-light">View Pricing List</a> <a href="contact" class="btn-light">Book Now</a>
-                                </div>
+                        <h2>The AgriHack WestAfrica Initiative</h2>
+                        <p class="m-t-20">Agriculture is a major sector of the Nigerian Economy, providing employment for over 48% of the population as of 2010. Although, the sector suffers a series of systemic setbacks, as of 2014, it accounted for 20% of Nigeria GDP. Our vision for The AgriHack Initiative is to strengthen the Agriculture Value chain in West Africa into a net exporter of produce and services</p>
+                        <br>
+                          <a href="http://www.agrihackwestafrica.org" class="btn-light">Learn More</a>
+                      
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
                 </div>
-            </div>
-        </div>
+            
     </section>
     <!-- Project Details End -->

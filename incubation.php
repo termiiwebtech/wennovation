@@ -18,11 +18,12 @@
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     <div class="solution_tabs">
                         <h3>Our Key Service Areas</h3>
-                        <ul>
+                         <ul>
                             <li class="active"><a href="incubation">Incubation & Acceleration</a></li>
                             <li><a href="ecosystem">Ecosystem Development</a></li>
                             <li><a href="consulting">Consulting</a></li>
                             <li><a href="coworking">Coworking</a></li>
+                            <li><a href="agrihack">AgriHack WestAfrica</a></li>
                         </ul>
                     </div>
                 </div>
@@ -31,8 +32,8 @@
             <div class="row p-t-70">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="broker_box">
-                        <h2>Incubation & Acceleration Initiatives</h2>
-                        <p class="m-t-20">We help new and startup companies to develop by providing services such as management training, co-creation work space and business support.</p>
+                        <h2>Incubation & Acceleration</h2>
+                        <p class="m-t-20">We help new and startup companies to develop by providing services such as management training, co-creation work space and business support to facilitate their Market Entry.</p>
                         <div id="accordion" role="tablist" aria-multiselectable="true" class="m-t-35">
                             <div class="toggle">
                                 <div class="toggle-heading" role="tab">
@@ -55,7 +56,7 @@
                                 </div>
                                 <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-expanded="false" style="">
                                     <div class="toggle-body">
-                                        <p>Wennoconsulting is our business consulting and advisory session where solution strategies are provided to SMEs and Startups. Participants get to discuss challenges, growth barriers with our expert team of consultants.</p>
+                                        <p>Wennoconsulting is our business consulting and advisory session where solution strategies are provided to SMEs and Startups. Participants get to discuss their challenges and growth barriers with our expert team of consultants.</p>
                                     </div>
                                     <a href="contact" class="btn-light">Contact us</a> <a class="btn-light">Call (+234) 0909-000-2647 for enquiry</a>
                                 </div>
@@ -68,7 +69,7 @@
                                 </div>
                                 <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-expanded="false">
                                     <div class="toggle-body">
-                                        <p>Our flagship 3-month Accelerator program is based on the Villlage Capital model which democratizes entrepreneurship. This means a cohort startups gets to select the best among them for funding. 90% of startups selected through this model remained in business after 5 years versus the 30% average from those selected by a jury. Our next cohort in 2017 will focus on Agriculture. </p>
+                                        <p>Our flagship 3-month Accelerator program is based on the Villlage Capital model which democratizes entrepreneurship. This means that memebers of an acceleartion cohort gets to select the best among them for funding. 90% of startups selected through this model remained in business after 5 years versus the 30% average from those selected by a jury. Our next cohort in 2017 will focus on Agriculture. </p>
                                     </div>
                                     <a href="contact" class="btn-light">Get Involved</a> <a class="btn-light">Call (+234) 0909-000-2647 for enquiry</a>
                                 </div>
