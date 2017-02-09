@@ -1,62 +1,62 @@
 
 
     <!-- Slider Start -->
-    <div id="rev_slider_35_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container  hidden-xs" data-alias="news-gallery35" style="margin:0px auto;background-color:#ffffff;padding:0px;margin-top:0px;margin-bottom:0px;width: 565px !important;">
+    <div id="rev_slider_35_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="news-gallery35" style="margin:0px auto;background-color:#ffffff;padding:0px;margin-top:0px;margin-bottom:0px;width: 565px !important;">
         <!-- START REVOLUTION SLIDER 5.0.7 fullwidth mode -->
         <div id="rev_slider_35_1" class="rev_slider fullwidthabanner" style="display:none; min-height: 700px !important;" data-version="5.0.7">
             <ul>
                 <!-- SLIDE  -->
-                <li data-index="rs-129 p-t-70" data-transition="fade" data-slotamount="default" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-title="<span>1</span>Collaboration" data-description="Vibrant Community" style="margin-top: -45px !important;">
+                <li data-index="rs-129 p-t-70" data-transition="fade" data-slotamount="default" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-title="<span>1</span>Collaboration" data-description="Vibrant Community" style="margin-top: -5px !important;">
                     <!-- MAIN IMAGE -->
                     <img src="images/finance/bg.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
-                    <h1 class="tp-caption  tp-resizeme text-center color_white text_bold p-48" data-x="center" data-y="245" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">Impact Unlimited</h1>
+                    <h1 class="tp-caption  tp-resizeme text-center color_white text_bold p-48 hidden-xs" data-x="center" data-y="245" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">Impact Unlimited</h1>
 
-                    <div class="tp-caption  tp-resizeme text-center" data-x="center" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
+                    <div class="tp-caption  tp-resizeme text-center hidden-xs" data-x="center" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
                         <p class="p_20 color_white">Join the most energetic community of change makers in Nigeria.</p>
                     </div>
 
-                    <div class="tp-caption  tp-resizeme text-center" data-x="center" data-y="380" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800"> <a href="coworking" class="btn-whitw">Learn More</a> <a href="contact" class="btn-light">Join Now</a>
+                    <div class="tp-caption  tp-resizeme text-center hidden-xs" data-x="center" data-y="380" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800"> <a href="coworking" class="btn-whitw">Learn More</a> <a href="contact" class="btn-light">Join Now</a>
                     </div>
 
                 </li>
 
-                <li data-index="rs-130 p-t-70" data-transition="slideleft" data-slotamount="default" data-rotate="0" data-title="<span>2</span>Mentoring" data-description="Grooming next generation entreprenuers" style="margin-top: -45px !important;"> <img src="images/finance/bg_3.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <li data-index="rs-130 p-t-70" data-transition="slideleft" data-slotamount="default" data-rotate="0" data-title="<span>2</span>Mentoring" data-description="Grooming next generation entreprenuers" style="margin-top: -5px !important;"> <img src="images/finance/bg_3.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
                     <!-- LAYERS -->
-                    <h1 class="tp-caption  tp-resizeme text-center color_white text_bold p-48" data-x="center" data-y="245" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">Get expert business support</h1>
+                    <h1 class="tp-caption  tp-resizeme text-center color_white text_bold p-48 hidden-xs" data-x="center" data-y="245" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">Get expert business support</h1>
 
-                    <div class="tp-caption  tp-resizeme text-center" data-x="center" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
+                    <div class="tp-caption  tp-resizeme text-center hidden-xs" data-x="center" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
                         <p class="p_20 color_white">Become an exceptional entrepreneur by being a part of wennovation mentorship program.</p>
                     </div>
 
-                    <div class="tp-caption  tp-resizeme text-center" data-x="center" data-y="380" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800"> <a href="consulting" class="btn-whitw">Learn More</a> <a href="contact" class="btn-light">Contact Us</a>
+                    <div class="tp-caption  tp-resizeme text-center hidden-xs" data-x="center" data-y="380" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800"> <a href="consulting" class="btn-whitw">Learn More</a> <a href="contact" class="btn-light">Contact Us</a>
                     </div>
                 </li>
 
-                <li data-index="rs-131 p-t-70" data-transition="slideleft" data-rotate="0" data-title="<span>3</span> Startup Funding" data-description="We guide funding of seeded businesses"  style="margin-top: -45px !important;"> <img src="images/finance/bg_5.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <li data-index="rs-131 p-t-70" data-transition="slideleft" data-rotate="0" data-title="<span>3</span> Startup Funding" data-description="We guide funding of seeded businesses"  style="margin-top: -5px !important;"> <img src="images/finance/bg_5.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                    
                     <!-- LAYERS -->
-                    <h1 class="tp-caption  tp-resizeme text-center color_white text_bold p-48" data-x="center" data-y="245" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">Raise Seed fund for your business</h1>
+                    <h1 class="tp-caption  tp-resizeme text-center color_white text_bold p-48 hidden-xs" data-x="center" data-y="245" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">Raise Seed fund for your business</h1>
 
-                    <div class="tp-caption  tp-resizeme text-center" data-x="center" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
+                    <div class="tp-caption  tp-resizeme text-center hidden-xs" data-x="center" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
                         <p class="p_20 color_white">Get access to seed funds by joinning wennovation's startup program.</p>
                     </div>
 
-                    <div class="tp-caption  tp-resizeme text-center" data-x="center" data-y="380" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800"> <a href="ecosystem" class="btn-whitw">Learn More</a> <a href="contact" class="btn-light">Contact Us</a>
+                    <div class="tp-caption  tp-resizeme text-center hidden-xs" data-x="center" data-y="380" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800"> <a href="ecosystem" class="btn-whitw">Learn More</a> <a href="contact" class="btn-light">Contact Us</a>
                     </div>
                 </li>
 
-                <li data-index="rs-132 p-t-70" data-transition="slideleft" data-rotate="0" data-title="<span>4</span> Entrepreneurship" data-description="We drive entrepreneurship"  style="margin-top: -45px !important;"> <img src="images/finance/bg_4.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <li data-index="rs-132 p-t-70" data-transition="slideleft" data-rotate="0" data-title="<span>4</span> Entrepreneurship" data-description="We drive entrepreneurship"  style="margin-top: -5px !important;"> <img src="images/finance/bg_4.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
                     <!-- LAYERS -->
-                    <h1 class="tp-caption  tp-resizeme text-center color_white text_bold p-48" data-x="center" data-y="245" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">Build your career  as an entrepreneur</h1>
+                    <h1 class="tp-caption  tp-resizeme text-center color_white text_bold p-48 hidden-xs" data-x="center" data-y="245" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">Build your career  as an entrepreneur</h1>
 
-                    <div class="tp-caption  tp-resizeme text-center" data-x="center" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
+                    <div class="tp-caption  tp-resizeme text-center hidden-xs" data-x="center" data-y="300" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800">
                         <p class="p_20 color_white">Kickstart your journey as an entrepreneur with wennovation's startup co-creation space.</p>
                     </div>
 
-                    <div class="tp-caption  tp-resizeme text-center" data-x="center" data-y="380" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800"> <a href="incubation" class="btn-whitw">Learn More</a> <a href="contact" class="btn-light">Contact Us</a>
+                    <div class="tp-caption  tp-resizeme text-center hidden-xs" data-x="center" data-y="380" data-width="full" data-transform_idle="o:1;" data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="800"> <a href="incubation" class="btn-whitw">Learn More</a> <a href="contact" class="btn-light">Contact Us</a>
                     </div>
                 </li>
                 <!-- SLIDE  -->
@@ -284,88 +284,3 @@
     </section>
     </div>
     <!-- Testinomial end -->
-    
-    
-
-    
-
-    <!-- Latest News & update Start -->
-    <div id="events">
-    <section id="latest_news" class="p-b-100 p-t-100 bg_gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-sm-8 col-xs-12">
-                    <div class="heading">
-                                <div class="heading_border bg_red"></div>
-                                <p>UPCOMING EVENTS</p>
-                                <h2>Latest <span class="color_red">Events</span></h2>
-                            </div>
-                            
-                    <div id="latest_news-slider" class="owl-carousel p-t-40">
-                        <div class="item">
-                            <div class="latest_box">
-                                <a  href="#"><h4 style="font-weight: 600 !important;" class="p-b-10">AgriHack WennoKick Finals</h4></a>
-                                <p>WennoKick is a pre-acceleration and idea validation program targeted at aspiring and existing entrepreneurs with a special focus on agripreneurs...</p>
-                                <div class="lates_border m-b-25"></div>
-                                <span>by Wennoadmin</span>
-                                <i class="icon-icons228"></i> <span>17 Oct 2016</span>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="latest_box"><a  href="#"><h4 style="font-weight: 600 !important;" class="p-b-10">Lean Methodologies</h4></a>
-                                <p>Simply, lean means creating more value for customers with fewer resources. A lean organization understands customer value...</p>
-                                <div class="lates_border m-b-25"></div>
-                                <span>by Wennoadmin</span>
-                                <i class="icon-icons228"></i> <span>8 Sept 2016</span>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="latest_box"><a  href="#"><h4 style="font-weight: 600 !important;" class="p-b-10">IndexedDB and Push Notifications in Progressive Web Apps</h4></a>
-                                <p>The Google Developer Group, Ibadan held the second phase of it’s progressive web apps series...</p>
-                                <div class="lates_border m-b-25"></div>
-                                <span>by Wennoadmin</span>
-                                <i class="icon-icons228"></i> <span>27 Aug 2016</span>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="latest_box">
-                                <a  href="#"><h4 style="font-weight: 600 !important;" class="p-b-10">Google Code Jam 2016; Who qualifies for next round?</h4></a>
-                                <p>April 10th 2016 marks the end of registration and qualification round for the Google Code Jam 2016...</p>
-                                <div class="lates_border m-b-25"></div>
-                                <span>by Wennoadmin</span>
-                                <i class="icon-icons228"></i> <span>16 April 2016</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                            <div class="heading">
-                                <div class="heading_border bg_red"></div>
-                                <p>Subscription</p>
-                                <h2>BE UP TO <span class="color_red">date</span></h2>
-                            </div>
-                    <div class="p-t-40">
-                        <div class="over_image"><img src="images/update_bg.png" alt="image" /></div>
-                            <div class="updates">
-                                <p class="color_white">Subscribe to our newsletters to receive latest news and updates. </p>
-                                <form class="p-t-25">
-                                    <div class="col-md-12">
-                                        <input type="text" placeholder="Name">
-                                    </div>
-                                    <div class="col-md-10">
-                                        <input type="email" class="email" placeholder="Email">
-                                    </div>
-                                    <div class="col-md-2">
-                                        <input type="submit" class="submit" value="">
-                                        <span><a href="#"><i class="icon-mail-envelope-closed3"></i></a></span>
-                                    </div>
-                                </form>
-                            </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    </div>
-    <!-- Latest News & update end -->

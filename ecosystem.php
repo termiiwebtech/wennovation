@@ -23,6 +23,7 @@
                             <li class="active"><a href="ecosystem">Ecosystem Development</a></li>
                             <li><a href="consulting">Consulting</a></li>
                             <li><a href="coworking">Coworking</a></li>
+                            <li><a href="agrihack">AgriHack WestAfrica</a></li>
                         </ul>
                     </div>
                 </div>
@@ -42,7 +43,7 @@
                                 </div>
                                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-expanded="false">
                                     <div class="toggle-body">
-                                        <p>WennoAcademy is Wennovation Hub’s on-demand training program designed to fill in the technical skills gap in Programming and Project Management impeding the development of a solid innovation ecosystem foundation in Nigeria. Starting August 2016, we are enroute to train 5000 Nigerians by 2019.</p>
+                                        <p>WennoAcademy is Wennovation Hub’s on-demand training program designed to fill in the technical skills gap in Programming and Project Management impeding the development of a solid innovation ecosystem foundation in Nigeria. Launched in August 2016, we are enroute to train 5000 Nigerians by 2019.</p>
                                     </div>
                                     <a href="contact" class="btn-light">Get Involved</a> <a class="btn-light">Call (+234) 0909-000-2647 for enquiry</a>
                                 </div>

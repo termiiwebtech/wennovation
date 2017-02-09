@@ -16,7 +16,7 @@
                                         <div class="agetn-contact-2 p-t-35">
                                             <p><i class="icon-telephone114"></i>(+234) 0909-000-2648</p>
                                             <p><i class=" icon-icons142"></i>info@wennovationhub.org</p>
-                                            <p><i class=" icon-alarmclock"></i>Mon to Sat - 08:00 to 9:00</p>
+                                            <p><i class=" icon-alarmclock"></i>Mon to Sun 9am to 9pm</p>
                                             <p><i class="icon-icons74"></i>3rd floor, Alpha & Omega Building,</p>
                                             <p>Queen Elizabeth Road II, Mokola Ibadan.</p>
                                         </div>
@@ -28,9 +28,9 @@
                                         <div class="agetn-contact-2 p-t-35">
                                             <p><i class="icon-telephone114"></i>(+234) 0708-162-8110</p>
                                             <p><i class=" icon-icons142"></i>info@wennovationhub.org</p>
-                                            <p><i class=" icon-alarmclock"></i>Mon to Sat - 08:00 to 9:00</p>
-                                            <p><i class="icon-icons74"></i>Plot C Obasa Rd,</p>
-                                            <p>Ikeja, Lagos.</p>
+                                            <p><i class=" icon-alarmclock"></i>Mon to Sun 8am to 6pm</p>
+                                            <p><i class="icon-icons74"></i>11a, Rev Ogunbiyi Str off Oba Akinjobi Str,</p>
+                                            <p> Ikeja GRA Lagos.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -79,8 +79,8 @@
             </div>
             <hr class="hrr">
             <div class="row p-t-55">
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <p class="footer_p">Wennovation Hub is pioneer innovation accelerator located in Nigeria, with offices in Lagos and Ibadan. We focus on social impact sectors including Education, Agriculture, Healthcare and Infrastructure and emphasizes the importance of job creation in all our programs.</p>
+                <div class="col-md-3 col-sm-3 col-xs-12">
+                    <p class="footer_p">Wennovation Hub is a pioneer innovation accelerator founded in August 2010, with offices in Lagos and Ibadan Nigeria.</p>
                 </div>
                 <div class="col-md-3 col-sm-3">
                    <div class="col-md-12">
@@ -91,12 +91,12 @@
                             </ul>
                     </div>
                 </div>
-                <div class="col-md-2 col-sm-2">
+                <div class="col-md-3 col-sm-3">
                     <div class="col-md-12">
                     <i class="icon-icons74 color_red" style="font-size: 27px;"></i><h3> Lagos Office</h3>
                             <ul>
-                                <li><p>Plot C Obasa Rd,</p></li>
-                                <li><p class="p_14">Ikeja, Lagos.</p></li>
+                                <li><p>11a, Rev Ogunbiyi Str off Oba Akinjobi Str,</p></li>
+                                <li><p class="p_14"> Ikeja GRA Lagos.</p></li>
                             </ul>
                     </div>
                 </div>

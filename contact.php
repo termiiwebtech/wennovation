@@ -80,7 +80,7 @@ else
              <div class="col-md-4 col-sm-12 col-xs-12">
                 
                 <div class="form_left p-t-80">
-                    <h3 class="text-uppercase"><span>1</span>Get in Touch</h3>
+                    <h3 class="text-uppercase"><span>2</span>Get in Touch</h3>
                     <div class="over_image"><img src="images/update_bg.png" alt="image"/></div>
                     
                    	<div class="updates">
@@ -98,8 +98,18 @@ else
                                 </div>
                             </form>
                         </div>
-                                
+                           
+                    
+                        <div class="social-icons_1 p-t-30">
+                            <ul>
+                                <li><a href="https://web.facebook.com/wennovationhub/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="https://twitter.com/wennovation/"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.instagram.com/wennovation/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                            </ul>
+
+                        </div>
              </div>
+                 
              
         </div>
     </div>

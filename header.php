@@ -57,7 +57,7 @@
                         <div class="get-tuch text-left"><i class="icon-alarmclock"></i>
                             <ul>
                                 <li>
-                                    <h4>9am - 9pm</h4>
+                                    <h4>24/7</h4>
                                 </li>
                                 <li>
                                     <p class="p_14">Monday to Sunday</p>
@@ -69,9 +69,9 @@
                         <div class="header-top-links">
                             <div class="social-icons text-right">
                                 <ul>
-                                    <li><a href="#"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://web.facebook.com/wennovationhub/"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/wennovation/"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
+                                    <li><a href="https://www.instagram.com/wennovation/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
                                 <li>
@@ -89,14 +89,6 @@
         <nav class="navbar navbar-default navbar-fixed navbar-transparent navbar-sticky dark bootsnav">
 
             <div class="container">
-                <div class="" id="search">
-                    <button type="button" class="close">×</button>
-                    <form>
-                        <input type="search" value="" placeholder="Search on Site...">
-                        <span class="searc_button"><i class="icon-icons185"></i></span>
-                        <button type="submit" class="btn btn-primary">Search</button>
-                    </form>
-                </div>
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
@@ -119,6 +111,7 @@
                             <li class="cool-link"><a href="home#who">About</a></li>
                         <li class="dropdown cool-link_3"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Focus</a>
                             <ul class="dropdown-menu">
+                                <li><a href="argrichack">The AgriHack WestAfrica Initiative</a></li>
                                 <li><a href="incubation">Incubation & Acceleration</a></li>
                                 <li><a href="ecosystem">Ecosystem development</a></li>
                                 <li><a href="consulting">Consulting</a></li>

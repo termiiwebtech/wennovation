@@ -3,7 +3,7 @@
     <div class="container">
 		<div class="page-header text-center">
           <h2>Our Team</h2>
-          <h4 class="color_white">We are a passionate and commited to grooming African Entreprenuers</h4>
+          <h4 class="color_white">We are passionate and commited to grooming African Entreprenuers</h4>
         </div>
     </div>
 </div>
@@ -69,7 +69,7 @@
                         </div>
                         <div class="team_text">
                                 <h4>Idris Bello</h4>
-                                <p>Co-founder & Programmes Director</p>
+                                <p>Co-founder & Programme Director</p>
                         </div>
 
                     </div>
@@ -312,7 +312,7 @@
                         </div>
                         <div class="team_text">
                                 <h4>Mogaji Abiola Iyiola</h4>
-                                <p>Director</p>
+                                <p>Advisor</p>
                         </div>
 
                     </div>
